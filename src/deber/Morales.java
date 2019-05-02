@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package deber;
 
 /**
@@ -10,5 +6,5 @@ package deber;
  * @author Bryan jurado
  */
 public class Morales {
-    
+    //Mi primero yo
 }
